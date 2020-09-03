@@ -46,20 +46,7 @@ And finally the server will be loaded!
 - Express - Node.js web application framework
 - MongoDB - Database Management
 
-#### Functionalities in the app
-- Authentication using JWT Token
-- Designed and coded Doctor and Patient Dashboard
-- Fix an online appointment between a Doctor and the Patient.
-- COVID-19 Tracker
-- A chat bot feature
-- Real Time Chat feature 
-- Prescription Upload facility.
-
-#### Contributors
-Satyam Chaudhary
-
-If you have any difficulty in building up the code in the repository,feel free to open the issue!
-
+#### Screenshot
 - LANDING PAGE
 ![WhatsApp Image 2020-09-03 at 6 39 16 PM](https://user-images.githubusercontent.com/25302027/92119359-51a96000-ee15-11ea-8500-8432e538b025.jpeg)
 
@@ -85,6 +72,19 @@ If you have any difficulty in building up the code in the repository,feel free t
 - VIEW PESCRIPTION
 ![WhatsApp Image 2020-09-03 at 6 39 19 PM](https://user-images.githubusercontent.com/25302027/92119384-5837d780-ee15-11ea-9c25-7e158ee20330.jpeg)
 
+#### Functionalities in the app
+- Authentication using JWT Token
+- Designed and coded Doctor and Patient Dashboard
+- Fix an online appointment between a Doctor and the Patient.
+- COVID-19 Tracker
+- A chat bot feature
+- Real Time Chat feature 
+- Prescription Upload facility.
+
+#### Contributors
+Satyam Chaudhary
+
+If you have any difficulty in building up the code in the repository,feel free to open the issue!
 
 
 
