@@ -60,6 +60,31 @@ Satyam Chaudhary
 
 If you have any difficulty in building up the code in the repository,feel free to open the issue!
 
+- LANDING PAGE
+![WhatsApp Image 2020-09-03 at 6 39 16 PM](https://user-images.githubusercontent.com/25302027/92119359-51a96000-ee15-11ea-8500-8432e538b025.jpeg)
+
+- PATIENT DASHBOARD
+![WhatsApp Image 2020-09-03 at 6 39 16 PM (1)](https://user-images.githubusercontent.com/25302027/92119365-540bba00-ee15-11ea-94cf-90b402123591.jpeg)
+
+- GET APPOINTMENT
+![WhatsApp Image 2020-09-03 at 6 39 17 PM](https://user-images.githubusercontent.com/25302027/92119368-54a45080-ee15-11ea-817f-517482c271d1.jpeg)
+
+
+- VIEW REQUESTED APPOINTMENT DETAILS
+![WhatsApp Image 2020-09-03 at 6 39 18 PM (1)](https://user-images.githubusercontent.com/25302027/92119381-5706aa80-ee15-11ea-9e73-dff08564f106.jpeg)
+
+- CHAT WITH A DOCTOR
+![WhatsApp Image 2020-09-03 at 6 39 17 PM (1)](https://user-images.githubusercontent.com/25302027/92119374-55d57d80-ee15-11ea-85ce-b0a0301a1686.jpeg)
+
+- DOCTOR DASHBOARD
+![WhatsApp Image 2020-09-03 at 6 39 18 PM](https://user-images.githubusercontent.com/25302027/92119377-566e1400-ee15-11ea-9206-455766ca4155.jpeg)
+
+- UPLOAD PRESCRIPTION FORM
+![WhatsApp Image 2020-09-03 at 6 39 18 PM (2)](https://user-images.githubusercontent.com/25302027/92119383-579f4100-ee15-11ea-8ab4-b54d648bcb19.jpeg)
+
+- VIEW PESCRIPTION
+![WhatsApp Image 2020-09-03 at 6 39 19 PM](https://user-images.githubusercontent.com/25302027/92119384-5837d780-ee15-11ea-9c25-7e158ee20330.jpeg)
+
 
 
 
